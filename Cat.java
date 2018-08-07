@@ -13,5 +13,4 @@ public class Cat implements Animal {
 	public void yield() {
 		
 	}
-
 }
